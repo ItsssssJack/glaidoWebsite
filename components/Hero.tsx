@@ -27,7 +27,7 @@ export const Hero: React.FC = () => {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
           <button className="w-full sm:w-auto px-8 py-4 bg-[#BFF549] text-black rounded-xl font-bold text-lg hover:bg-[#aee035] hover:scale-105 transition-all duration-200 shadow-[0_0_40px_-10px_rgba(191,245,73,0.5)] flex items-center justify-center gap-2">
-            <img src="/apple.png" alt="Apple" className="w-5 h-5" />
+            <img src="/apple.png" alt="Apple" className="h-5 w-auto object-contain" />
             Try Glaido Free
           </button>
         </div>
