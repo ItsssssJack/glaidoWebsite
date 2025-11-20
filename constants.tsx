@@ -84,7 +84,7 @@ export const PRICING_TIERS: PricingTier[] = [
   },
   {
     name: "Pro",
-    price: "$12.00",
+    price: "$20.00",
     period: "/month",
     description: "For people who write code, long documents, or technical content all day. Saves 20+ hours/month.",
     features: [
