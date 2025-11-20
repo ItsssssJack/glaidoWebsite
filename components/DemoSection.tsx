@@ -124,7 +124,7 @@ export const DemoSection: React.FC = () => {
         </span>
         <h2 className="text-3xl md:text-5xl font-bold mb-6">See How Much Time You're Wasting</h2>
         <p className="text-gray-400 max-w-2xl mx-auto">
-          Say one sentence. Watch it appear instantly, perfectly formatted by <span className="text-white font-semibold">Gemini AI</span>. Now imagine finishing all your writing this fast.
+          Say one sentence. Watch it appear instantly, perfectly polished. Now imagine finishing all your writing this fast.
         </p>
       </div>
 
