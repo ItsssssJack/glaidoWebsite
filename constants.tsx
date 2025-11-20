@@ -128,21 +128,21 @@ export const FAQS: FaqItem[] = [
 
 export const TESTIMONIALS = [
   {
-    quote: "I used to spend 2+ hours daily on emails. Now it takes 30 minutes. I leave work on time now.",
+    quote: "I respond to emails while walking my dog now. Sounds ridiculous but it's genuinely changed how I work.",
     name: "Jack Roberts",
     role: "Founder",
     company: "Teddy AI",
     image: "/jack.jpeg"
   },
   {
-    quote: "I finish PRs in half the time. My manager asked why my velocity doubled. I don't get wrist pain anymore.",
+    quote: "My wrists were killing me after 8 hours of coding. Now I dictate comments and docs—way faster and zero pain.",
     name: "Jannis Moore",
     role: "Founder",
     company: "Integraticus",
     image: "/jannis.jpeg"
   },
   {
-    quote: "50,000 words in 3 months instead of 12. Glaido didn't just save my wrists—it saved my book deal.",
+    quote: "I was skeptical about voice typing. Then I realized I could write course content during my commute. Game changer.",
     name: "Dave Ebbelaar",
     role: "Founder",
     company: "Datalumina",

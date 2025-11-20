@@ -29,7 +29,7 @@ export const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-          <img src="/glaido White.svg" alt="Glaido" className="h-8" />
+          <img src="/glaido-white.svg" alt="Glaido" className="h-8" />
         </div>
 
         {/* Desktop Nav */}

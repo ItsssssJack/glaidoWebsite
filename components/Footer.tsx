@@ -5,7 +5,7 @@ export const Footer: React.FC = () => {
   return (
     <footer className="border-t border-white/10 bg-black pt-20 pb-10 px-6">
       <div className="max-w-7xl mx-auto flex justify-center mb-12">
-        <img src="/Glaido Mark Green.svg" alt="Glaido" className="h-12" />
+        <img src="/glaido-mark-green.svg" alt="Glaido" className="h-12" />
       </div>
 
       <div className="max-w-7xl mx-auto flex justify-center">
