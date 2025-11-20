@@ -1,0 +1,7 @@
+{
+  "name": "Glaido - Universal Voice Dictation",
+  "description": "Seamless voice-to-text for any application. 5x faster than typing. Powered by advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
